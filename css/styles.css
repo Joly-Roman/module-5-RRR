@@ -1,0 +1,72 @@
+
+
+
+.container {
+	display:flex;
+	flex-direction: column;
+}
+
+
+.input {
+	display:flex;
+	flex-direction: column;
+}
+
+
+.input__heading {
+	font-family: sans-serif;
+
+}
+
+.buttons {
+	display: flex;
+	margin-top: 45px;
+}
+
+.j-btn-create {
+	background-color: #431CD2;
+	color: #FFFFFF;
+	padding: 15px;
+	width: 150px;
+	margin-right: 25px;
+	letter-spacing: 4.5px;
+	border: none;
+}
+
+.j-btn-replace {
+	background-color: #431CD2;
+	color: #FFFFFF;
+	padding: 15px;
+	width: 150px;
+	letter-spacing: 4.5px;
+	border: none;
+}
+
+.input__j-var1 {
+	height: 30px;
+}
+.input__j-var2 {
+	height: 30px;
+}
+.input__j-var3 {
+	height: 30px;
+}
+.input__j-var4 {
+	height: 30px;
+}
+.input__j-var5 {
+	height: 30px;
+}
+.input__j-var6 {
+	height: 30px;
+}
+.input__j-speach {
+	height: 30px;
+}
+
+.j-text {
+	padding-top: 23px;
+	font-family: sans-serif;
+	font-size: 25px;
+
+}	
